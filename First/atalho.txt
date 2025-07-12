@@ -1,0 +1,36 @@
+del*    (delete) deleta arquivos
+ls      (list) lista arquivos no diretorio
+cls     (clear) limpa terminal
+cd      (change directory) muda de diretorio
+mkdir   (make directory) cria um diretorio novo
+code    (vscode) abre o editor de codigo do vscode
+
+comando npm e node
+npm init -y     inicia um projeto node
+node [arquivo]  roda arquivo javascript
+node --watch [arquivo]  node fica vigiando arquivo
+
+
+
+Para alterar a mensagem de um commit no Git, você pode usar o comando git commit --amend
+
+
+Para clonar apenas uma branch específica em Git, use o comando git clone --branch <nome_da_branch> --single-branch
+
+Qual comando do Git podemos utilizar para alternar entre branches?
+git checkout
+
+
+Hard Skills
+linguagens de programacao
+arquiteturas de sistemas
+banco de dados
+stacks de desenvolvimento
+Ferramentas
+
+Soft Skills
+trabalho em equipe 
+pensamento critico
+gerenciamento de tempo
+comunicacao
+lideranca
