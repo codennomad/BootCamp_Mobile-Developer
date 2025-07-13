@@ -1,0 +1,19 @@
+{
+  "name": "simulador-de-corrida",
+  "version": "1.0.0",
+  "description": "Simulando uma corrida do Mario Kart com node.js pela DIO.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "Kart",
+    "simulador",
+    "corrida",
+    "DIO",
+    "Mario"
+  ],
+  "author": "Gabriel",
+  "license": "ISC"
+}
