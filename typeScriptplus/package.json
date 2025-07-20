@@ -1,0 +1,23 @@
+{
+  "name": "typescriptplus",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dist": "npx tsup src",
+    "start:dev": "tsx src/index.ts",
+    "start:dev:watch": "tsx watch src/index.ts",
+    "start:dist": "npm run dist && node src/index.js"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
+}
