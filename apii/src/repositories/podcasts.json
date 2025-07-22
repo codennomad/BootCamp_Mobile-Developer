@@ -1,0 +1,425 @@
+[
+    {
+        "podcastName": "Devzera Podcast",
+        "episode": "Inteligência Artificial e o Futuro do Desenvolvimento",
+        "videoId": "gT8yB_0c13s",
+        "cover": "https://i.ytimg.com/vi/gT8yB_0c13s/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=gT8yB_0c13s",
+        "category": ["technology", "studies"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Hipsters.Tech",
+        "episode": "Inteligência Artificial Generativa e o Futuro do Trabalho",
+        "videoId": "Fj2z9S9c27Q",
+        "cover": "https://i.ytimg.com/vi/Fj2z9S9c27Q/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=Fj2z9S9c27Q",
+        "category": ["technology", "studies"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Tecnocast",
+        "episode": "O Impacto da 5G na Sociedade",
+        "videoId": "kL9wX_0d14t",
+        "cover": "https://i.ytimg.com/vi/kL9wX_0d14t/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=kL9wX_0d14t",
+        "category": ["technology"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Mente Binária",
+        "episode": "Cibersegurança: Protegendo Seus Dados",
+        "videoId": "mL0xY_1e25u",
+        "cover": "https://i.ytimg.com/vi/mL0xY_1e25u/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=mL0xY_1e25u",
+        "category": ["technology"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Loop Matinal",
+        "episode": "As Novas Tendências em Desenvolvimento Web",
+        "videoId": "nN1yZ_2f36v",
+        "cover": "https://i.ytimg.com/vi/nN1yZ_2f36v/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=nN1yZ_2f36v",
+        "category": ["technology", "studies"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Lex Fridman Podcast",
+        "episode": "Elon Musk: SpaceX, Mars, Tesla, Neuralink, AI, AGI, Aliens, Multiverse, and Humanity",
+        "videoId": "sv_BwB_wL_Y",
+        "cover": "https://i.ytimg.com/vi/sv_BwB_wL_Y/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=sv_BwB_wL_Y",
+        "category": ["technology", "science", "studies"],
+        "language": "en"
+    },
+    {
+        "podcastName": "The Vergecast",
+        "episode": "The AI arms race is on",
+        "videoId": "e_p4yS1_e0A",
+        "cover": "https://i.ytimg.com/vi/e_p4yS1_e0A/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=e_p4yS1_e0A",
+        "category": ["technology"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Hardcore History",
+        "episode": "Blueprint for Armageddon (Part 1 of 6)",
+        "videoId": "e_p4yS1_e0B",
+        "cover": "https://i.ytimg.com/vi/e_p4yS1_e0B/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=e_p4yS1_e0B",
+        "category": ["history", "studies"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Stuff You Should Know",
+        "episode": "How the Internet Works",
+        "videoId": "f_q5zT2_f1C",
+        "cover": "https://i.ytimg.com/vi/f_q5zT2_f1C/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=f_q5zT2_f1C",
+        "category": ["technology"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Accidental Tech Podcast",
+        "episode": "WWDC 2024 Reactions",
+        "videoId": "g_r6aU3_g2D",
+        "cover": "https://i.ytimg.com/vi/g_r6aU3_g2D/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=g_r6aU3_g2D",
+        "category": ["technology"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Rebuild.fm",
+        "episode": "Rebuild: 377: The AI Revolution",
+        "videoId": "1gX-5Q1-L3Y",
+        "cover": "https://i.ytimg.com/vi/1gX-5Q1-L3Y/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=1gX-5Q1-L3Y",
+        "category": ["technology"],
+        "language": "en"
+    },
+    {
+        "podcastName": "TechCrunch Japan Podcast",
+        "episode": "日本のスタートアップ最新情報 (Latest Japanese Startup News)",
+        "videoId": "3kL0vX_wYjE",
+        "cover": "https://i.ytimg.com/vi/3kL0vX_wYjE/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=3kL0vX_wYjE",
+        "category": ["technology"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "Off Topic",
+        "episode": "日本のゲーム業界の現状 (Current State of the Japanese Game Industry)",
+        "videoId": "o_0pQ_1rS2t",
+        "cover": "https://i.ytimg.com/vi/o_0pQ_1rS2t/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=o_0pQ_1rS2t",
+        "category": ["technology"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "ITmedia NEWS",
+        "episode": "最新のAI技術動向 (Latest AI Technology Trends)",
+        "videoId": "p_1qR_2sT3u",
+        "cover": "https://i.ytimg.com/vi/p_1qR_2sT3u/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=p_1qR_2sT3u",
+        "category": ["technology"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "日経トレンディ (Nikkei Trendy)",
+        "episode": "スマートフォンの進化と未来 (Evolution and Future of Smartphones)",
+        "videoId": "q_2rS_3tU4v",
+        "cover": "https://i.ytimg.com/vi/q_2rS_3tU4v/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=q_2rS_3tU4v",
+        "category": ["technology"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "Anime Crazies",
+        "episode": "O Futuro dos Animes e Mangás",
+        "videoId": "hY_9xZ_0pQo",
+        "cover": "https://i.ytimg.com/vi/hY_9xZ_0pQo/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=hY_9xZ_0pQo",
+        "category": ["anime", "manga"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Mundo Freak Confidencial",
+        "episode": "Melhores Animes de Todos os Tempos",
+        "videoId": "t_1vX_2eY7s",
+        "cover": "https://i.ytimg.com/vi/t_1vX_2eY7s/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=t_1vX_2eY7s",
+        "category": ["anime"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Otaku Brasil",
+        "episode": "Animes de Verão 2024: O Que Assistir?",
+        "videoId": "r_3wY_4fZ8g",
+        "cover": "https://i.ytimg.com/vi/r_3wY_4fZ8g/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=r_3wY_4fZ8g",
+        "category": ["anime"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "JBox Podcast",
+        "episode": "A Cultura Otaku no Brasil",
+        "videoId": "s_4xZ_5gA9h",
+        "cover": "https://i.ytimg.com/vi/s_4xZ_5gA9h/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=s_4xZ_5gA9h",
+        "category": ["anime", "manga"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Anime Sphere",
+        "episode": "Os Melhores Mangás para Começar a Ler",
+        "videoId": "t_5yA_6hB0i",
+        "cover": "https://i.ytimg.com/vi/t_5yA_6hB0i/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=t_5yA_6hB0i",
+        "category": ["manga"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Anime Summit Podcast",
+        "episode": "Is Anime Getting Worse?",
+        "videoId": "o_J8X_2eY7s",
+        "cover": "https://i.ytimg.com/vi/o_J8X_2eY7s/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=o_J8X_2eY7s",
+        "category": ["anime"],
+        "language": "en"
+    },
+    {
+        "podcastName": "The Anime Man Podcast",
+        "episode": "The State of Anime in 2024",
+        "videoId": "u_1wX_3eY7s",
+        "cover": "https://i.ytimg.com/vi/u_1wX_3eY7s/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=u_1wX_3eY7s",
+        "category": ["anime"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Crunchyroll Podcast",
+        "episode": "Top 10 Anime of the Decade",
+        "videoId": "v_2xY_4eZ8t",
+        "cover": "https://i.ytimg.com/vi/v_2xY_4eZ8t/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=v_2xY_4eZ8t",
+        "category": ["anime"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Manga Mavericks",
+        "episode": "Analyzing Shonen Jump's Success",
+        "videoId": "w_3yZ_5fA9u",
+        "cover": "https://i.ytimg.com/vi/w_3yZ_5fA9u/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=w_3yZ_5fA9u",
+        "category": ["manga"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Anime News Network Podcast",
+        "episode": "The Rise of Isekai Anime",
+        "videoId": "x_4zA_6gB0v",
+        "cover": "https://i.ytimg.com/vi/x_4zA_6gB0v/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=x_4zA_6gB0v",
+        "category": ["anime"],
+        "language": "en"
+    },
+    {
+        "podcastName": "アニラジ (Aniradi)",
+        "episode": "2024年夏アニメ特集 (Summer 2024 Anime Special)",
+        "videoId": "v_2wX_4eY7s",
+        "cover": "https://i.ytimg.com/vi/v_2wX_4eY7s/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=v_2wX_4eY7s",
+        "category": ["anime"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "声優と夜あそび (Seiyuu to Yoasobi)",
+        "episode": "人気アニメの裏話 (Behind the Scenes of Popular Anime)",
+        "videoId": "w_3xY_5eZ8t",
+        "cover": "https://i.ytimg.com/vi/w_3xY_5eZ8t/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=w_3xY_5eZ8t",
+        "category": ["anime"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "アニメ！アニメ！ (Anime! Anime!)",
+        "episode": "アニメーション制作の舞台裏 (Behind the Scenes of Anime Production)",
+        "videoId": "y_5bC_7hD1w",
+        "cover": "https://i.ytimg.com/vi/y_5bC_7hD1w/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=y_5bC_7hD1w",
+        "category": ["anime"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "マンガート！ (Mangart!)",
+        "episode": "少年ジャンプの歴史 (History of Shonen Jump)",
+        "videoId": "z_6cD_8iE2x",
+        "cover": "https://i.ytimg.com/vi/z_6cD_8iE2x/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=z_6cD_8iE2x",
+        "category": ["manga"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "アニメ・声優と夜あそび (Anime Seiyuu to Yoasobi)",
+        "episode": "人気声優のトークショー (Popular Voice Actor Talk Show)",
+        "videoId": "a_7dE_9jF3y",
+        "cover": "https://i.ytimg.com/vi/a_7dE_9jF3y/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=a_7dE_9jF3y",
+        "category": ["anime"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "Nerdologia",
+        "episode": "A Ciência da Inteligência Artificial",
+        "videoId": "e_4zY_6eZ9u",
+        "cover": "https://i.ytimg.com/vi/e_4zY_6eZ9u/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=e_4zY_6eZ9u",
+        "category": ["studies", "science", "technology"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Linguagem Corporal e Persuasão",
+        "episode": "Aprender Idiomas Mais Rápido",
+        "videoId": "f_5aZ_7eA0v",
+        "cover": "https://i.ytimg.com/vi/f_5aZ_7eA0v/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=f_5aZ_7eA0v",
+        "category": ["studies", "languages"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Matemática Rio com Prof. Rafael Procopio",
+        "episode": "Desvendando a Álgebra Linear",
+        "videoId": "b_8eF_0kG4z",
+        "cover": "https://i.ytimg.com/vi/b_8eF_0kG4z/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=b_8eF_0kG4z",
+        "category": ["studies", "mathematics"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Física Total",
+        "episode": "Entendendo a Relatividade de Einstein",
+        "videoId": "c_9fG_1lH5a",
+        "cover": "https://i.ytimg.com/vi/c_9fG_1lH5a/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=c_9fG_1lH5a",
+        "category": ["studies", "physics"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Português com a Professora Cíntia",
+        "episode": "Dicas para Redação e Gramática",
+        "videoId": "d_0gH_2mI6b",
+        "cover": "https://i.ytimg.com/vi/d_0gH_2mI6b/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=d_0gH_2mI6b",
+        "category": ["studies", "languages"],
+        "language": "pt"
+    },
+    {
+        "podcastName": "Science Friday",
+        "episode": "The Physics of Everyday Life",
+        "videoId": "g_6bZ_8eB1w",
+        "cover": "https://i.ytimg.com/vi/g_6bZ_8eB1w/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=g_6bZ_8eB1w",
+        "category": ["studies", "physics", "science"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Duolingo English Podcast",
+        "episode": "Learning a New Language",
+        "videoId": "h_7cZ_9eC2x",
+        "cover": "https://i.ytimg.com/vi/h_7cZ_9eC2x/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=h_7cZ_9eC2x",
+        "category": ["studies", "languages"],
+        "language": "en"
+    },
+    {
+        "podcastName": "The Infinite Monkey Cage",
+        "episode": "The Wonders of Quantum Mechanics",
+        "videoId": "i_8dX_0eD3z",
+        "cover": "https://i.ytimg.com/vi/i_8dX_0eD3z/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=i_8dX_0eD3z",
+        "category": ["studies", "physics", "science"],
+        "language": "en"
+    },
+    {
+        "podcastName": "Math & Physics Podcast",
+        "episode": "Calculus Explained Simply",
+        "videoId": "j_9eY_1eE4a",
+        "cover": "https://i.ytimg.com/vi/j_9eY_1eE4a/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=j_9eY_1eE4a",
+        "category": ["studies", "mathematics", "physics"],
+        "language": "en"
+    },
+    {
+        "podcastName": "All Ears English Podcast",
+        "episode": "How to Improve Your English Pronunciation",
+        "videoId": "k_0fY_2fF5b",
+        "cover": "https://i.ytimg.com/vi/k_0fY_2fF5b/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=k_0fY_2fF5b",
+        "category": ["studies", "languages"],
+        "language": "en"
+    },
+    {
+        "podcastName": "The History of English Podcast",
+        "episode": "The Anglo-Saxons and Old English",
+        "videoId": "l_1gZ_3gG6c",
+        "cover": "https://i.ytimg.com/vi/l_1gZ_3gG6c/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=l_1gZ_3gG6c",
+        "category": ["studies", "languages", "history"],
+        "language": "en"
+    },
+    {
+        "podcastName": "NHKラジオ講座 (NHK Radio Course)",
+        "episode": "日本語学習のコツ (Tips for Japanese Learning)",
+        "videoId": "i_8dX_0eD3y",
+        "cover": "https://i.ytimg.com/vi/i_8dX_0eD3y/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=i_8dX_0eD3y",
+        "category": ["studies", "languages"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "サイエンスZERO (Science ZERO)",
+        "episode": "量子コンピューターの基礎 (Basics of Quantum Computers)",
+        "videoId": "j_9eY_1eE4z",
+        "cover": "https://i.ytimg.com/vi/j_9eY_1eE4z/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=j_9eY_1eE4z",
+        "category": ["studies", "technology", "physics", "science"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "数学カフェ (Math Cafe)",
+        "episode": "微積分の基礎 (Basics of Calculus)",
+        "videoId": "m_2hA_4hH7d",
+        "cover": "https://i.ytimg.com/vi/m_2hA_4hH7d/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=m_2hA_4hH7d",
+        "category": ["studies", "mathematics"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "物理学入門 (Introduction to Physics)",
+        "episode": "相対性理論を学ぶ (Learning Relativity Theory)",
+        "videoId": "n_3iB_5iI8e",
+        "cover": "https://i.ytimg.com/vi/n_3iB_5iI8e/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=n_3iB_5iI8e",
+        "category": ["studies", "physics"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "日本語の森 (Japanese Language Forest)",
+        "episode": "JLPT N3対策 (JLPT N3 Preparation)",
+        "videoId": "o_4jC_6jJ9f",
+        "cover": "https://i.ytimg.com/vi/o_4jC_6jJ9f/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=o_4jC_6jJ9f",
+        "category": ["studies", "languages"],
+        "language": "jp"
+    },
+    {
+        "podcastName": "Inteligencia Ltda",
+        "episode": "SUPERINTELIGENCIA ARTIFICIAL - AKITA, ROBERTA E CAVALLINI - Inteligência Ltda.Podcast #1583",
+        "videoId": "_Hl9wiLkns4",
+        "cover": "https://i.ytimg.com/vi/_Hl9wiLkns4/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=_Hl9wiLkns4",
+        "category": ["technology"],
+        "language": "pt"
+    }
+]
